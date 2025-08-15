@@ -7,15 +7,15 @@ author_profile: true
 ---
 # Secure Your Future with Betsy Wabuke
 Expert Cybersecurity Solutions
+
 Vulnerability Assessment | Penetration Testing | IT Support
 ---
 # Protect Your Systems Today
-Hi, I’m Betsy Wabuke, a Nairobi-based cybersecurity professional with a proven track record in identifying vulnerabilities, securing networks, and delivering robust IT solutions. Let me help you fortify your digital defenses against modern threats.
-
+Hi, I’m Betsy Wabuke, a cybersecurity professional with a proven track record in identifying vulnerabilities, securing networks, and delivering robust IT solutions. Let me help you fortify your digital defenses against modern threats.
 Book a Consultation | Explore My Services
 ---
 # Why Work with Me?
-- Proven Expertise: Successfully conducted penetration tests and vulnerability assessments using tools like Nmap, Nessus, and Burp Suite.
+- Proven Expertise: Successfully conducted penetration tests and vulnerability assessments.
 - Actionable Solutions: Delivered recommendations that reduced risk exposure for organizations like Hoji Limited and the Ministry of Finance.
 - Tailored Support: From network troubleshooting to employee training, I provide customized solutions to meet your needs.
 ---
@@ -28,4 +28,4 @@ Contact Me
 - 📞 +254 726673952
 - 🔗 LinkedIn
 
-© 2025 Betsy Rose Wabuke. All rights reserved.
+
