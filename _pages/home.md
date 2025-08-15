@@ -16,8 +16,8 @@ I am a passionate cybersecurity professional with hands-on experience in penetra
 
 ---
 
-<div style="width:100%; background:#f5f5f5; padding:40px 20px;">
-<h2>🛠 Skills Overview</h2>
+
+## 🛠 Skills Overview
 
 | Technical Skills | Soft Skills |
 |------------------|-------------|
@@ -26,7 +26,6 @@ I am a passionate cybersecurity professional with hands-on experience in penetra
 | SOC Analysis | Team Collaboration |
 | Bash Scripting | Critical Thinking |
 | IT Support | Attention to Detail |
-</div>
 
 ---
 
