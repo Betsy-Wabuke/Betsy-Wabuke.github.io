@@ -1,0 +1,19 @@
+---
+title: "Lab Challenges"
+permalink: /challenges/
+---
+
+## 🧪 Lab Challenges
+
+### SMB Exploit Challenge
+- **Tools:** THC Hydra, Enum4linux
+- **Summary:** Exploited SMB vulnerabilities in a Kali Linux environment.
+- **Lessons Learned:** Importance of enumeration before exploitation.
+
+### Post-Exploitation Testing
+- Performed privilege escalation in lab.
+- Recommended patch management and access controls.
+
+### Cloud/IoT Security Assessment
+- Assessed cloud & IoT environments.
+- Proposed encryption and access control enhancements.
