@@ -57,13 +57,7 @@ plugins:
 author:
   name   : "Betsy Rose Wabuke"
   avatar : "/assets/images/profile.jpg"
-  bio_items:
-    - text: "Computer Science Graduate(Network & Security)"
-      icon: "fa-solid fa-graduation-cap"
-    - text: "IT Support"
-      icon: "fa-solid fa-desktop"
-    - text: "Vulnerability Assessment and Penetration Testing"
-      icon: "fa-solid fa-shield-halved"
+  bio: "Computer Science Graduate(Network & Security), IT Support, Vulnerability Assessment and Penetration Testing"
   location: "Nairobi, Kenya"
   links:
     - label: "LinkedIn"
