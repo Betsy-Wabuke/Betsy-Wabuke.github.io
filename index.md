@@ -2,7 +2,7 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: default
+layout: single
 title: "Betsy Wabuke – Cybersecurity Professional"
 author_profile: true
 ---
@@ -24,8 +24,8 @@ I enjoy solving complex security challenges and helping organizations protect th
 
 ---
 
-<div style="width:100%; background:#f5f5f5; padding:40px 20px;">
-<h2>🛠 Skills & Expertise</h2>
+
+## 🛠 Skills & Expertise
 
 | Skill | Description |
 |-------|-------------|
@@ -34,7 +34,7 @@ I enjoy solving complex security challenges and helping organizations protect th
 | ![SOC](https://img.shields.io/badge/SOC-Analysis-green?style=flat-square) **SOC Analysis** | Detect, respond, and report on security incidents |
 | ![Bash](https://img.shields.io/badge/Bash-Scripting-blue?style=flat-square) **Bash Scripting** | Automate tasks, scans, and system administration workflows |
 | ![IT](https://img.shields.io/badge/IT-Support-yellow?style=flat-square) **IT Support** | Troubleshoot and maintain hardware, software, and network systems |
-</div>
+
 
 ---
 
