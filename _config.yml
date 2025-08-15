@@ -62,7 +62,7 @@ author:
   location: "Nairobi, Kenya"
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/betsy-wabuke"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
@@ -71,19 +71,19 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Betsy-Wabuke"
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fa-solid fa-envelope"
       url: "mailto:betsywabuke@gmail.com"
 
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fa-brands fa-linkedin"
       url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/www.linkedin.com/in/betsy-wabuke"
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fa-solid fa-envelope"
       url: "mailto:betsywabuke@gmail.com"
 
 defaults:
