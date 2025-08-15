@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Betsy Wabuke – Cybersecurity |Vulnerability Assessment | Penetration Testing | IT Support"
+title: "DIGITAL DEFENCE IN A CONNECTED WORLD"
 email:
 description: "Portfolio & Skills"
 theme: jekyll-theme-cayman
