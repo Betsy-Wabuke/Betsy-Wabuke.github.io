@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
-title: "Betsy Wabuke – Cybersecurity Professional"
+title: "Hire Me – Cybersecurity Professional"
 author_profile: true
 ---
 
@@ -18,53 +18,38 @@ author_profile: true
 
 ---
 
-## ✨ About Me
-I am a passionate cybersecurity professional with hands-on experience in penetration testing, network security, SOC analysis, Bash scripting, and IT support.  
-I enjoy solving complex security challenges and helping organizations protect their digital assets.
+## ✨ Why Hire Me?
+- **Penetration Testing** – Identify vulnerabilities and strengthen security posture.  
+- **Network Security** – Secure, monitor, and optimize IT infrastructure.  
+- **SOC Analysis** – Detect and respond to threats effectively.  
+- **Bash Scripting** – Automate scans, reporting, and incident response.  
+- **IT Support** – Solve hardware, software, and network issues efficiently.
 
 ---
 
-
-## 🛠 Skills & Expertise
-
-| Skill | Description |
-|-------|-------------|
-| ![PenTest](https://img.shields.io/badge/Penetration-Testing-red?style=flat-square) **Penetration Testing** | Identify vulnerabilities & provide actionable remediation |
-| ![Network](https://img.shields.io/badge/Network-Security-orange?style=flat-square) **Network Security** | Secure networks & monitor for threats |
-| ![SOC](https://img.shields.io/badge/SOC-Analysis-green?style=flat-square) **SOC Analysis** | Detect, respond, and report on security incidents |
-| ![Bash](https://img.shields.io/badge/Bash-Scripting-blue?style=flat-square) **Bash Scripting** | Automate tasks, scans, and system administration workflows |
-| ![IT](https://img.shields.io/badge/IT-Support-yellow?style=flat-square) **IT Support** | Troubleshoot and maintain hardware, software, and network systems |
-
-
----
-
-## 📂 Featured Projects
-
-- **Internal Penetration Test Lab** – Simulated attacks to identify weak points.  
-- **Vulnerability Assessment Reports** – Actionable recommendations for clients.  
-- **Automation & Bash Scripts** – Tools for scanning, reporting, and alerting.  
-- **IT Support Projects** – Assisted organizations in maintaining secure and efficient IT systems.  
-
+<div style="width:100%; background:#f5f5f5; padding:40px 20px;">
+<h2>📂 Featured Projects</h2>
+<ul>
+<li><strong>Internal Penetration Test Lab</strong> – Simulated attacks to identify weak points.</li>
+<li><strong>Vulnerability Assessment Reports</strong> – Delivered detailed, actionable recommendations.</li>
+<li><strong>Automation & Bash Scripts</strong> – Created tools for scanning, reporting, and alerting.</li>
+<li><strong>IT Support Projects</strong> – Assisted organizations in maintaining secure and efficient systems.</li>
+</ul>
 <a href="#portfolio">
   <img src="https://img.shields.io/badge/View-Portfolio-brightgreen?style=for-the-badge" alt="View Portfolio">
 </a>
-
----
-
-<div style="width:100%; background:#eaf4ff; padding:40px 20px;">
-<h2>💬 Testimonials</h2>
-
-> "Betsy's penetration testing report was detailed and actionable. Highly professional!" – Former Internship Supervisor  
-<br>
-> "Her SOC analysis and IT support skills helped us resolve critical issues quickly." – Team Lead  
 </div>
 
 ---
 
-## 📬 Contact Me
+## 💬 Testimonials
+> "Betsy's penetration testing report was detailed and actionable. Highly professional!" – Former Internship Supervisor
+<br>
+> "Her SOC analysis and IT support skills helped us resolve critical issues quickly." – Team Lead  
 
-I’m actively seeking opportunities to contribute my cybersecurity and IT expertise. Let’s connect!  
+---
 
+## 📬 Contact
 [![Email Me](https://img.shields.io/badge/Email-YourEmail-blue?style=for-the-badge)](mailto:betsywabuke@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge)](https://www.linkedin.com/in/betsywabuke)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge)](https://github.com/Betsy-Wabuke)
@@ -74,6 +59,5 @@ I’m actively seeking opportunities to contribute my cybersecurity and IT exper
 <footer style="text-align:center; font-size:0.9em;">
 &copy; 2025 Betsy Wabuke. All rights reserved.
 </footer>
-
 
 
