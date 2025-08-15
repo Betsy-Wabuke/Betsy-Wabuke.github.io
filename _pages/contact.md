@@ -1,6 +1,6 @@
 ---
-title: "Contact"
 permalink: /contact/
+title: "Contact"
 ---
 ## 📬 Get in Touch
 - **Phone:** +254 726673952  
