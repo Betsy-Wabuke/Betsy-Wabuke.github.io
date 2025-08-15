@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Betsy Rose Wabuke"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Cybersecurity professional skilled in vulnerability assessment, threat detection, and incident response."
+  bio    : "Cybersecurity expert with diverse experience in assessing system vulnerabilities and improving security for SMEs"
   location: "Nairobi, Kenya"
   links:
     - label: "LinkedIn"
@@ -75,6 +75,10 @@ author:
 
 footer:
   links:
+    - label: "Privacy Policy"
+      url: "/privacy-policy/"
+    - label: "Terms of Use"
+      url: "/terms/"
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
       url: "https://"
