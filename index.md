@@ -55,7 +55,7 @@ I enjoy solving complex security challenges and helping organizations protect th
 <h2>💬 Testimonials</h2>
 
 > "Betsy's penetration testing report was detailed and actionable. Highly professional!" – Former Internship Supervisor  
-
+<br>
 > "Her SOC analysis and IT support skills helped us resolve critical issues quickly." – Team Lead  
 </div>
 
