@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Betsy Rose Wabuke"
   avatar : "/assets/images/profile.jpg"
-  bio_items:
+  bio:
     - text: Computer Science Graduate(Network & Security)
       icon: fa-solid fa-graduation-cap
     - text: IT Support
