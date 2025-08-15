@@ -57,7 +57,9 @@ plugins:
 author:
   name   : "Betsy Rose Wabuke"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Vulnerability Assessment|Penetration Testing|IT Support"
+  bio    : "Vulnerability Assessment"
+  bio    : "Penetration Testing"
+  bio    : "IT Support" 
   location: "Nairobi, Kenya"
   links:
     - label: "LinkedIn"
