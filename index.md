@@ -7,7 +7,7 @@ title: "Betsy Wabuke – Cybersecurity Professional"
 author_profile: true
 ---
 
-
+<div style="width:100%; margin:0; padding:0;">
 # 👋 Hi, I'm Betsy Wabuke
 **Cybersecurity Enthusiast | Network & Security Specialist | Penetration Tester**
 
@@ -66,6 +66,6 @@ I’m actively seeking opportunities to contribute my cybersecurity and IT exper
 <footer style="text-align:center;">
 &copy; 2025 Betsy Wabuke. All rights reserved.
 </footer>
-
+</div>
 
 
